@@ -1,0 +1,5 @@
+
+.DS_Store
+
+# Ignoring the node modules to prevent file overload
+node-modules/
